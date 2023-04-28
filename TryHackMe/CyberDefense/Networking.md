@@ -94,4 +94,4 @@ It gets you a lot of info such as TTL (Time To Live). It's the amount of time (i
 
 Here the TTL is 36 secondes
 
-When searching for an association your computer sends the query first to a recursive DNS server that will find the bedst suited DNS to answer the query.
+When searching for an association your computer sends the query first to a recursive DNS server that will find the best suited DNS to answer the query.
