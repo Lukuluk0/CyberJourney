@@ -94,6 +94,8 @@ Subnetting provides a range of benefits, including:
 
 ## **ARP Protocol**
 
+***Address Resolution Protocol***
+
 Devices can have two identifiers: A ***MAC*** address and an ***IP*** address, the ***ARP protocol*** or **A**ddress **R**esolution **P**rotocol for short, is the technology that is responsible for allowing devices to identify themselves on a network.
 
 The ARP protocol allows a device to associate its MAC address with an IP address on the network.

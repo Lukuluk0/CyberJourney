@@ -6,11 +6,11 @@ All the programs and applications cannot run directly on the computer hardware; 
 
 The operating system allows these programs to access the hardware according to specific rules.
 
-- Confidentiality: You want to ensure that secret and private files and information are only available to intended persons.
+- **Confidentiality**: You want to ensure that secret and private files and information are only available to intended persons.
 
-- Integrity: It is crucial that no one can tamper with the files stored on your system or while being transferred on the network.
+- **Integrity**: It is crucial that no one can tamper with the files stored on your system or while being transferred on the network.
 
-- Availability: You want your laptop or smartphone to be available to use anytime you decide to use it.
+- **Availability**: You want your laptop or smartphone to be available to use anytime you decide to use it.
 
 ---
 
