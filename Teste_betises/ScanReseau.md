@@ -13,5 +13,6 @@ Je veux scan les ports de mon réseau avec mon adress IP perso et essayer de tro
 Pour analyser les port ouvert sur mon adress IP j'utilise cette commande:
 
 ```bash
-nmap <mon_IP>
+nmap <mon_IP>/<MasqueSousReseau>
 ```
+
