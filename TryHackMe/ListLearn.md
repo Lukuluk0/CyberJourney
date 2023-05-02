@@ -50,3 +50,4 @@
 |   MAC   |   Media Access Control    |
 |   NIC   |  Network Interface Card   |
 |   ISP   | Internet Service Provider |
+|   URL   | Uniform Resource Locator  |
