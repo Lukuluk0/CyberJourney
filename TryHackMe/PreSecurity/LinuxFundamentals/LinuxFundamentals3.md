@@ -117,7 +117,9 @@ We can use `fg` to bring this back to focus
 
 ---
 
-## **Users may want to schedule a certain action or task to take place after the system has booted**
+## **Maintaining Your System: Automation**
+
+Users may want to schedule a certain action or task to take place after the system has booted
 
 A crontab is simply a special file with formatting that is recognised by the cron process to execute each line step-by-step. Crontabs require 6 specific values:
 
@@ -131,3 +133,43 @@ A crontab is simply a special file with formatting that is recognised by the cro
 | CMD   | The actual command that will be executed. |
 
 Crontabs can be edited by using `crontab -e`, where you can select an editor (such as Nano) to edit your crontab.
+
+## **Maintaining Your System: Package Management**
+
+When developers wish to submit software to the community, they will submit it to an  "apt" repository.
+
+Whilst Operating System vendors will maintain their own repositories, you can also add community repositories to your list!
+
+This allows you to extend the capabilities of your OS.
+
+Additional repositories can be added by using the `add-apt-repositorycommand` or by listing another provider!
+
+`sudo add-apt-repository ppa:<nom_du_dépôt>`
+
+### **Managing Your Repositories (Adding and Removing)**
+
+Normally we use the `apt` command to install software onto our Ubuntu system.
+
+The `apt` command is a part of the package management software also named apt.
+
+Apt contains a whole suite of tools that allows us to manage the packages and sources of our software, and to install or remove software at the same time.
+
+In this example, we're going to add the text editor Sublime Text to our Ubuntu machine as a repository
+
+When adding software, the integrity of what we download is guaranteed by the use of what is called **GPG** (Gnu Privacy Guard) keys.
+
+We need to add the GPG key for the developers of Sublime Text 3.
+
+1. Let's download the GPG key and use apt-key to trust it:  `wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -`
+
+2. Now that we have added this key to our trusted list, we can now add Sublime Text 3's repository to our apt sources list.
+   1. Let's create a file named sublime-text.list in /etc/apt/sources.list.d
+   2. Add & save the Sublime Text 3 repository into this newly created file
+   3. we need to update apt to recognise this new entry -- this is done using the `apt update` command
+   4. we can now proceed to install the software that we have trusted and added to apt using `apt install sublime-text`
+
+---
+
+## **Maintaining Your System: Logs**
+
+Located in the /var/log directory, these files and folders contain logging information for applications and services running on your system. The Operating System  (OS) has become pretty good at automatically managing these logs in a process that is known as "rotating".
