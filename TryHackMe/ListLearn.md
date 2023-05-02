@@ -51,3 +51,5 @@
 |   NIC   |  Network Interface Card   |
 |   ISP   | Internet Service Provider |
 |   URL   | Uniform Resource Locator  |
+|   CDN   | Content Delivery Network  |
+|   WAF   | Web Application Firewall  |
