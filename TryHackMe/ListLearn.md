@@ -7,6 +7,7 @@
 - [x] DHCP
 - [ ] Analyse my ports
 - [ ] Learn more about OSPF and RIP
+- [ ] Port forward a port from my own network(but of another computer)
 
 ---
 
@@ -43,7 +44,8 @@
 
 ## **Other Acronyms**
 
-| Acronym |     Complete Name      |
-| :-----: | :--------------------: |
-|   MAC   |  Media Access Control  |
-|   NIC   | Network Interface Card |
+| Acronym |       Complete Name       |
+| :-----: | :-----------------------: |
+|   MAC   |   Media Access Control    |
+|   NIC   |  Network Interface Card   |
+|   ISP   | Internet Service Provider |

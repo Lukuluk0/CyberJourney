@@ -15,15 +15,15 @@ The topics that we're going to cover in this room are:
 
 ## OSI Model
 
-| OSI |
-|:----:|
-| 7 Application |
+|      OSI       |
+| :------------: |
+| 7 Application  |
 | 6 Presentation |
-| 5 Session |
-| 4 Transport |
-| 3 Network |
-| 2 Data Link |
-| 1 Physical |
+|   5 Session    |
+|  4 Transport   |
+|   3 Network    |
+|  2 Data Link   |
+|   1 Physical   |
 
 7- Application : Sort of an interface
 
