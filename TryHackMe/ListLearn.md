@@ -24,6 +24,7 @@
 |   HTTP   |    Hyper Text Transfer Protocol     |
 |   OSPF   |      Open Shortest Path First       |
 |   RIP    |    Routing Information Protocol     |
+|   SMTP   |    Simple Mail Transfer Protocol    |
 
 ---
 
