@@ -8,6 +8,7 @@
 - [ ] Analyse my ports
 - [ ] Learn more about OSPF and RIP
 - [ ] Port forward a port from my own network(but of another computer)
+- [ ] open my ssh on my WSL and connect to another computer
 
 ---
 
