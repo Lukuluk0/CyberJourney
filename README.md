@@ -10,9 +10,10 @@ Ici je documenterais et mettrai les ressources nécessaires et utilisées pour m
 
 ## Sites
 
-| Nom du Site | URL              | Pseudo |
-|-------------|------------------|--------|
-| Try Hack Me    | <https://tryhackme.com/> | <img src="https://tryhackme-badges.s3.amazonaws.com/Kastor.png" alt="TryHackMe">|
+| Nom du Site | URL                      | Pseudo                                                                           |
+| ----------- | ------------------------ | -------------------------------------------------------------------------------- |
+| Try Hack Me | <https://tryhackme.com/> | <img src="https://tryhackme-badges.s3.amazonaws.com/Kastor.png" alt="TryHackMe"> |
+| Root Me     | [root me](root-me.org)   | **Lukuluk**                                                                      |
 
 ---
 
