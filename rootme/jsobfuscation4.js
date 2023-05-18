@@ -67,3 +67,7 @@ function first_called_function(þ) {
     }
 }
 first_called_function(second_called_function(encrypted_pass, prompt("Mot de passe?")));
+
+// reponse : MyP4sS
+// la premiere lettre etait toujours la meme
+// il s'agissait de balises html
