@@ -48,6 +48,3 @@ he contents of some cookies can be in plain text, and it is obvious what they do
 ```bash
 curl -H "Cookie: logged_in=true; admin=true" http://10.10.131.133/cookie-test
 ```
-
-### **Hashing**
-
