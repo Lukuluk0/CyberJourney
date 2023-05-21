@@ -10,6 +10,8 @@
 - [ ] Port forward a port from my own network(but of another computer)
 - [ ] open my ssh on my WSL and connect to another computer
 - [ ] get the OSCP (remember to check in a few years)
+- [ ] Create My own proxy server
+- [ ] Host my own web server
 
 ---
 
