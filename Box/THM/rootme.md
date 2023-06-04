@@ -58,7 +58,7 @@ en utilisant la commande ``whoami`` on voit que le user s'appelle www-data.
 
 allons donc dans le directory var/www et comme on peut le voir il y a bien le flag !
 
-## **escalation de privilege**
+## **Escalation de privilege**
 
 on doit trouver un fichier ayant une permission SUID donc on utilise la commande suivante dans ./usr
 
@@ -81,3 +81,17 @@ on ouvre un shell mais comme on l'ouvre avec python il nous donne les privileges
 on trouve donc dans le dossier root le flag root.txt
 
 On trouve le flag : ***THM{pr1v1l3g3_3sc4l4t10n}***
+
+---
+
+## **Conclusion**
+
+Box numéro: **1**
+
+Temps pour le faire: ~3h
+
+Point de blocage:
+
+- je ne savais pas comment fonctionnais un reverse shell
+- je ne savais pas ce qu'etait un SUID permission
+- je savais pas ce qu'etait un filebypass
