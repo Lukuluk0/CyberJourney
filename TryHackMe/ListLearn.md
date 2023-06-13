@@ -5,12 +5,12 @@
 <!--- Alt + C pour cocher --->
 
 - [x] DHCP
-- [ ] Analyse my ports
-- [ ] Learn more about OSPF and RIP
-- [ ] Port forward a port from my own network(but of another computer)
-- [ ] open my ssh on my WSL and connect to another computer
+- [x] Analyse my ports
+- [x] Learn more about OSPF and RIP
+- [x] Port forward a port from my own network(but of another computer)
+- [x] open my ssh on my WSL and connect to another computer
 - [ ] get the OSCP (remember to check in a few years)
-- [ ] Create My own proxy server
+- [x] Create My own proxy server
 - [ ] Host my own web server
 
 ---
