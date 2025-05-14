@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Ici je documenterais et mettrai les ressources nécessaires et utilisées pour me former a la cybersécurité.
+Ici je documenterais et mettrai les ressources nécessaires et utilisées pour me former aà la cybersécurité.
 
 ---
 
